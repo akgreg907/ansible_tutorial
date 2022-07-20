@@ -2,3 +2,4 @@
 
 
 This is my awesome Ansible repository!
+Isn't it cool?
